@@ -14,4 +14,4 @@ As you might think, its the Polytoria home but in a app you can access from your
 
 <img width="1230" height="813" alt="image" src="https://github.com/user-attachments/assets/27b311f2-a4f8-4ff2-89dc-5461719feb3f" />
 
-# Available for #x64 and x86 #!
+# Available for x64 and x86!
